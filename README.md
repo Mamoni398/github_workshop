@@ -15,4 +15,6 @@
 <a href="www.google.com"> click me</a>
 # link mode
 [google]("www.google.com")
+#img in redmi file
+![gigi](gigi.jpg)
 
