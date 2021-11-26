@@ -14,5 +14,5 @@
 ***computer science student***
 <a href="www.google.com"> click me</a>
 # link mode
-[google] ("www.google.com")
+[google]("www.google.com")
 
